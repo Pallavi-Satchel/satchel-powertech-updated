@@ -1,0 +1,6 @@
+{
+  "name": "Satchel Powertech",
+  "description": "Official corporate website for Satchel Powertech Pvt. Ltd. - Premier Solar EPC Company in Noida & PAN India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
